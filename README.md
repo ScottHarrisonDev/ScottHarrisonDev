@@ -10,4 +10,4 @@ I've worked with many languages, frameworks and tools over the years but my curr
 
 ### Get In Touch
 
-[ScottHarrison.dev](https://scottharrison.dev/) | [LinkedIn](https://www.linkedin.com/in/scott-harrison-60904b93/) | Email me: [Hey@scottharrison.dev](mailto:Hey@scottharrison.dev) | [Dev.to](https://dev.to/scottharrisondev)
+[ScottHarrison.dev](https://scottharrison.dev/) | [LinkedIn](https://www.linkedin.com/in/scott-harrison-60904b93/) | Email me: [Hey@scottharrison.dev](mailto:Hey@scottharrison.dev) | [Dev.to](https://dev.to/scottharrisondev) | [Stack Overflow](https://stackoverflow.com/users/3387421)
