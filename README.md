@@ -6,24 +6,12 @@ I currently work for [Studio Rotate](https://studiorotate.com/) building award w
 
 ### Skills
 
-I've worked with many languages, frameworks and tools over the years but my current work is mostly focused around:
-- TypeScript
-- React
-- Vue
-- Node
-- Vanilla JavaScript
-- Tailwind
+I've worked with many languages, frameworks and tools over the years but my current work is mostly focused around **TypeScript, React, Vue, Node, Vanilla JavaScript and Tailwind**
 
 ### Passions
 
-- Web accessibility
-- Unit testing
-- Coding standards
-- Learning the underlying language and software patterns rather than simply learning a framework
+I'm passionate about web accessibility, unit testing, coding standards and value learning the underlying language and software patterns rather than simply learning a framework
 
 ### Get In Touch
 
-- You can find my website at [scottharrison.dev](https://scottharrison.dev/)
-- Find out more about me over on [my LinkedIn](https://www.linkedin.com/in/scott-harrison-60904b93/)
-- Contact me at [Hey@scottharrison.dev](mailto:Hey@scottharrison.dev)
-- View my [Dev.to profile](https://dev.to/scottharrisondev)
+[ScottHarrison.dev](https://scottharrison.dev/) | [LinkedIn](https://www.linkedin.com/in/scott-harrison-60904b93/) | Email me: [Hey@scottharrison.dev](mailto:Hey@scottharrison.dev) | [Dev.to](https://dev.to/scottharrisondev)
