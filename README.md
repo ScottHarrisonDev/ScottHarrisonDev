@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm a Senior Fullstack JavaScript Developer with over 12 years of commercial experience.
+I'm a Lead Software Engineer with over 12 years of commercial experience.
 
-I currently work for [Studio Rotate](https://studiorotate.com/) building award winning e-commerce websites such as [biggreenegg.co.uk](https://www.biggreenegg.co.uk/), [rapha.cc](https://www.rapha.cc/gb/en/) and [tracksmith.com](https://www.tracksmith.com/gb).
+Currently leading the backend team at [Vafo Digital](https://vafo.digital/).
 
-I'm passionate about web accessibility, unit testing, coding standards and value learning the underlying language and software patterns rather than simply learning a framework
-
-I've worked with many languages, frameworks and tools over the years but my current work is mostly focused around **TypeScript, React, Vue, Node, Vanilla JavaScript and Tailwind**
+I've worked with many languages, frameworks and tools over the years but my current work is mostly focused around **TypeScript, AWS, Terraform, Node and Astro**
 
 ### Get In Touch
 
