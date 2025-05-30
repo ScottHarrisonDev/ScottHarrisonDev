@@ -4,7 +4,7 @@ I'm a Lead Software Engineer with over 12 years of commercial experience.
 
 Currently leading the backend team at [Vafo Digital](https://vafo.digital/).
 
-I've worked with many languages, frameworks and tools over the years but my current work is mostly focused around **TypeScript, AWS, Terraform, Node and Astro**
+I've worked with many languages, frameworks and tools over the years but my current work is mostly focused around architectural planning and building infrastructure with **TypeScript, AWS, Terraform and Node**
 
 ### Get In Touch
 
